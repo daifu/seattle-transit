@@ -1,7 +1,7 @@
 {
     "name": "seattle-transit",
     "version": "1.0.0",
-    "description": "A skill that tell you when will be the deparure time for bus stops",
+    "description": "A alexa skill that tell you when will be the deparure time for bus stops",
     "main": "index.js",
     "scripts": {
         "test": "echo \"when is the next bus at 1111\" && exit 1"
