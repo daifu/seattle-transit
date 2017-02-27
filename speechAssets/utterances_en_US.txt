@@ -1,0 +1,4 @@
+GetNextBusScheduleIntent what is the next departure time at {StopNumber}
+GetNextBusScheduleIntent next departure time at {StopNumber}
+GetNextBusScheduleIntent when is the next bus at {StopNumber}
+GetNextBusScheduleIntent next bus at {StopNumber}

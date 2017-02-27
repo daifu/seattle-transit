@@ -1,0 +1,8 @@
+{"intents": [
+    {"intent": "GetNextBusScheduleIntent", "slots": [{"name": "StopNumber", "type": "AMAZON.NUMBER"}]},
+    {"intent": "AMAZON.RepeatIntent"},
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}
