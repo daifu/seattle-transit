@@ -19,9 +19,9 @@
     "author": "Yedaifu",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/alexa/skill-sample-nodejs-hello-world/issues"
+        "url": "https://github.com/daifu/seattle-transit/issues"
     },
-    "homepage": "https://github.com/alexa/skill-sample-nodejs-hello-world#readme",
+    "homepage": "https://github.com/daifu/seattle-transit/blob/master/README.md",
     "dependencies": {
         "alexa-sdk": "^1.0.0"
     }
